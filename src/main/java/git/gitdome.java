@@ -8,4 +8,7 @@ public class gitdome {
     public static void s(){
         System.out.println("hello git2");
     }
+    public static void s1(){
+        System.out.println("hello git3");
+    }
 }
