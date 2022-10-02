@@ -16,4 +16,5 @@ public class gitdome {
     public static void s4(){System.out.println("hello git5");}
     public static void s5(){System.out.println("hello git6");}
     public static void s6(){System.out.println("hello git7");}
+    public static void s7(){System.out.println("hello git8");}
 }
